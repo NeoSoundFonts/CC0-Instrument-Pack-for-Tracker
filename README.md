@@ -8,3 +8,5 @@ Source:
 - [FreePats](https://freepats.zenvoid.org/)
 - [AKWF - CC0 Wavetables](https://www.adventurekid.se/akrt/waveforms/adventure-kid-waveforms/)
 - Yingchun Soul custom presets
+
+Contributions are welcome!
